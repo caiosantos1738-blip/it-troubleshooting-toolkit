@@ -71,7 +71,7 @@ it-troubleshooting-toolkit/
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/it-troubleshooting-toolkit.git
+git clone https://github.com/caiosantos1738-blip/it-troubleshooting-toolkit.git
 cd it-troubleshooting-toolkit
 ```
 
