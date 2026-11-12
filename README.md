@@ -165,6 +165,30 @@ The current test suite contains **9 automated tests**, covering:
 
 **Latest validation:** 9 tests passed.
 
+## Screenshots
+
+The following screenshots demonstrate the toolkit running in an Ubuntu Server environment.
+
+### Main Menu
+
+![Network Diagnostics Menu](docs/screenshots/01-network-menu.png)
+
+### Internet Connectivity Test
+
+![Internet Connectivity](docs/screenshots/02-internet-connectivity.png)
+
+### DNS Resolution
+
+![DNS Resolution](docs/screenshots/03-dns-resolution.png)
+
+### TCP Port Connectivity Test
+
+![TCP Port Test](docs/screenshots/04-tcp-port-test.png)
+
+### Default Gateway Detection
+
+![Default Gateway](docs/screenshots/05-default-gateway.png)
+
 ## Development Environment
 
 - Operating System: Ubuntu Server.
@@ -255,6 +279,18 @@ O projeto foi desenvolvido como experiência prática de aprendizado, com foco e
 - systemd.
 - Pytest.
 - Git e GitHub.
+
+## Demonstração
+
+As capturas abaixo demonstram o funcionamento da ferramenta em um ambiente Ubuntu Server.
+
+- **Menu principal:** interface de diagnóstico de rede.
+- **Conectividade:** teste ICMP utilizando ping.
+- **DNS:** resolução de nomes de domínio.
+- **TCP:** teste de conectividade em portas específicas.
+- **Gateway:** identificação da rota padrão da máquina.
+
+Consulte as capturas na seção [Screenshots](#screenshots) da documentação em inglês.
 
 ## Instalação e utilização
 
